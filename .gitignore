@@ -1,0 +1,65 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Frontend build output
+dist/
+dist-ssr/
+
+# Rust / Tauri build output
+target/
+src-tauri/target/
+
+# Tauri generated bundles / installers
+*.msi
+*.exe
+*.dmg
+*.deb
+*.rpm
+*.AppImage
+*.pdb
+*.rlib
+*.d
+*.dll
+*.lib
+*.exp
+
+# Logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+.claude/
+.codex/
+
+# Test / coverage
+coverage/
+.nyc_output/
+
+# Local env / secrets
+.env
+.env.*
+!.env.example
+
+# Local app data / databases
+*.db
+*.sqlite
+*.sqlite3
+*.db-shm
+*.db-wal
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Project-specific generated docs
+docs/_reference_contact_sheet.png
