@@ -1,6 +1,20 @@
 # BytePet
 
-BytePet 是一个基于 Tauri 2、React 和 Rust 构建的 Windows 桌面 AI 桌宠。它支持可导入 PNG 序列帧角色、独立人物档案、AI 聊天、多模型 Provider 配置、喂食与好感/能量系统、主题颜色切换、托盘菜单和本地数据持久化。
+BytePet 是一个基于 Tauri 2、React 和 Rust 构建的桌面 AI 桌宠。它支持可导入 PNG 序列帧角色、独立人物档案、AI 聊天、多模型 Provider 配置、喂食与好感/能量系统、主题颜色切换、托盘菜单和本地数据持久化。
+
+## 下载
+
+最新版本可以在 GitHub Releases 下载：
+
+[下载 BytePet v0.1.0](https://github.com/hub12345666/BytePet/releases/tag/v0.1.0)
+
+当前版本提供：
+
+- Windows：`BytePet_0.1.0_x64-setup.exe`
+- Windows 备用安装包：`BytePet_0.1.0_x64_en-US.msi`
+- macOS Apple Silicon 测试包：`BytePet_0.1.0_aarch64.dmg`
+
+macOS 版本目前属于早期测试包，暂未进行完整测试、Apple 签名和公证。首次打开时 macOS 可能会显示安全提示，可以右键点击应用并选择“打开”。Mac 版后续会继续优化稳定性和兼容性。
 
 ## 功能特性
 
