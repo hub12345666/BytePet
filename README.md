@@ -16,6 +16,14 @@ BytePet 是一个基于 Tauri 2、React 和 Rust 构建的桌面 AI 桌宠。它
 
 macOS 版本目前属于早期测试包，暂未进行完整测试、Apple 签名和公证。首次打开时 macOS 可能会显示安全提示，可以右键点击应用并选择“打开”。Mac 版后续会继续优化稳定性和兼容性。
 
+## 皮肤素材
+
+也可以在 GitHub Releases 下载：
+
+[下载 BytePet v0.1.0](https://github.com/hub12345666/BytePet/releases/tag/v0.1.0)
+
+当前版本提供一些作者本人提供的素材
+
 ## 功能特性
 
 - 桌面透明悬浮桌宠，支持拖拽、抛出、落地、睡眠、唤醒和待机动作。
