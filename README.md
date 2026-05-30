@@ -160,30 +160,6 @@ action1/
 
 导入后资源会复制到 AppData 的 `bytepet-data/skins/` 下，安装版也会从该目录读取。
 
-## Git 提交建议
-
-建议提交：
-
-- `src/`
-- `src-tauri/src/`
-- `src-tauri/icons/`
-- `src-tauri/capabilities/`
-- `public/assets/skins/rick_default/`
-- `package.json`
-- `pnpm-lock.yaml`
-- `README.md`
-- `LICENSE`
-
-不要提交：
-
-- `node_modules/`
-- `dist/`
-- `src-tauri/target/`
-- `.env`
-- 数据库文件
-- 本地安装包、构建产物和调试符号
-- 包含真实 API Key 的截图或日志
-
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](./LICENSE) for details.
